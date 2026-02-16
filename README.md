@@ -2,7 +2,7 @@ Argo Operators
 =============
 
 # Overview
-This Repository includes the operators for [Argo](https://argoproj.github.io)..
+This Repository includes the operators for [Argo](https://argoproj.github.io)
 
 # Install
 
