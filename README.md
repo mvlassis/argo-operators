@@ -6,7 +6,7 @@ This Repository includes the operators for [Argo](https://argoproj.github.io)
 
 # Install
 
-To install the argo-operatorsm run:
+To install the argo-operators run:
 
 `juju deploy ./bundle.yaml`
 
